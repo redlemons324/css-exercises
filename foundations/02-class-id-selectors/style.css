@@ -1,4 +1,18 @@
-p {
-    background-color: rgb(240, 131, 131);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+.odd {
+    background-color: rgb(236, 130, 130);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.adj-font-size {
+    font-size:24px;
+}
+
+#two {
+    color: hsl(250, 100%, 60%);
+    font-size: 36px;
+}
+
+ #four {
+    background-color: #94e294;
+    font-weight:bold;
+ }
